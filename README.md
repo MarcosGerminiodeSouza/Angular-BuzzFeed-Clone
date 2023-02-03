@@ -1,2 +1,7 @@
-# Angular-BuzzFeed-Clone
-Criando um Clone do BuzzFeed com Angular. Desafio DIO.
+# BuzzFeed
+
+Criando um Clone do BuzzFeed utilizando Angular.
+
+## Desafio DIO
+
+Este projeto é um desafio proposto na plataforma Digital Inovation One
