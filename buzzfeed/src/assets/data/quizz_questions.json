@@ -1,0 +1,77 @@
+{
+  "title":"Você seria um super heroi ou super vilão ?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual super poder você escolheria ?",
+      "options":[
+        {"id": 1, "name":"Voar", "alias":"B"},
+        {"id": 2, "name":"Explodir coisas", "alias":"A"},
+        {"id": 3, "name":"Possuir o Death Note", "alias":"A"},
+        {"id": 4, "name":"Super-Força", "alias":"B"},
+        {"id": 5, "name":"Super Velocidade", "alias":"B"},
+        {"id": 6, "name":"Sombra super poderosa", "alias":"A"},
+        {"id": 7, "name":"Teleporte", "alias":"B"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Quem você salvaria primeiro ?",
+      "options":[
+        {"id": 1, "name":"O cãozinho em perigo", "alias":"A"},
+        {"id": 2, "name":"O idoso", "alias":"A"},
+        {"id": 3, "name":"Nenhum", "alias":"A"},
+        {"id": 4, "name":"Todos se possível", "alias":"B"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "options":[
+        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
+        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
+        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
+        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "O que vai fazer com seus poderes ?",
+      "options":[
+        {"id": 1, "name":"Ficar rico usando meus poderes", "alias":"A"},
+        {"id": 2, "name":"Salvar a cidade", "alias":"B"},
+        {"id": 3, "name":"Acabar com os malfeitores", "alias":"A"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Como você seria reconhecido pelos seus poderes ?",
+      "options":[
+        {"id": 1, "name":"O homem mais rapido do mundo", "alias":"B"},
+        {"id": 2, "name":"O Desconhecido", "alias":"A"},
+        {"id": 3, "name":"O Terrível", "alias":"A"},
+        {"id": 4, "name":"Guardião da cidade", "alias":"B"}
+      ]
+    },
+    {
+      "id":6,
+      "question": "Você salvou uma pessoa. Qual conselho você daria ?",
+      "options":[
+        {"id": 1, "name":"Tome cuidado, vá para casa com segurança", "alias":"B"},
+        {"id": 2, "name":"Não dar conselhos. Apenas ir embora", "alias":"A"}
+      ]
+    },
+    {
+      "id":7,
+      "question": "Você gostou de programar com Angular ?",
+      "options":[
+        {"id": 1, "name":"Sim.", "alias":"B"},
+        {"id": 2, "name":"Não. Prefiro outros frameworks", "alias":"A"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você seria um super vilão!",
+    "B": "Você muito provavelmente seria um super Herói!"
+  }
+}
